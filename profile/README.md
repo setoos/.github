@@ -1,186 +1,284 @@
 <div align="center">
 
-# 👋 Welcome to Setoo AI
+# Setoo AI
 
-### Building AI that solves real business problems.
+### Enterprise AI • Custom Software • Intelligent Automation
 
-We design and build intelligent software, AI agents, automation platforms, enterprise applications and modern digital experiences for businesses across the globe.
+We help startups, enterprises, and public sector organizations design, build, and scale AI-powered products, enterprise software, and digital platforms.
 
-[Website](https://setoo.co) •
-[Documentation](https://docs.setoo.co) •
-[LinkedIn](https://linkedin.com/company/setoos) •
-[Contact](mailto:hello@setoo.co)
+<p>
+  <a href="https://setoo.co">
+    <img src="https://img.shields.io/badge/Website-setoo.co-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/company/setoos">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:hello@setoo.co">
+    <img src="https://img.shields.io/badge/Email-hello@setoo.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+Agents;Enterprise+Software;Automation;Generative+AI;Custom+Applications;Cloud+Engineering;MLOps;Digital+Transformation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Enterprise+AI+Solutions;AI+Agents+%26+Automation;Generative+AI+Applications;Custom+Software+Development;Cloud+Native+Engineering;Building+Technology+That+Scales" />
 
 </div>
 
 ---
 
-# 🚀 What We Build
+## About Setoo
 
-<table>
-<tr>
+Setoo AI is an AI-first software engineering company helping businesses transform ideas into production-ready digital products.
 
-<td width="50%">
+Our multidisciplinary teams combine AI, software engineering, cloud infrastructure, UX, and product thinking to build secure, scalable, and maintainable solutions.
 
-## 🤖 AI Engineering
-
-- AI Agents
-- Copilots
-- LLM Applications
-- RAG Systems
-- AI Automation
-- Knowledge Assistants
-
-</td>
-
-<td width="50%">
-
-## 💻 Software Engineering
-
-- Web Applications
-- Mobile Apps
-- SaaS Platforms
-- Enterprise Software
-- APIs
-- Cloud Native Applications
-
-</td>
-
-</tr>
-</table>
+Whether you're launching an AI-powered SaaS platform, automating business operations, or modernising enterprise systems, we become an extension of your engineering team.
 
 ---
 
-# 🛠 Technology Stack
+## What We Build
 
-## Artificial Intelligence
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
-
-OpenAI • Anthropic • Gemini • LangChain • LlamaIndex • CrewAI • AutoGen • Qdrant • Pinecone • ChromaDB
+| AI Engineering | Software Engineering |
+|---------------|----------------------|
+| AI Agents | Enterprise Platforms |
+| Conversational AI | SaaS Products |
+| RAG Applications | Web Applications |
+| AI Automation | Mobile Applications |
+| LLM Integrations | APIs & Microservices |
+| AI Consulting | Cloud Native Systems |
 
 ---
 
-## Frontend
+## Technology Stack
+
+### Artificial Intelligence
+
+- OpenAI
+- Anthropic Claude
+- Google Gemini
+- LangChain
+- LlamaIndex
+- CrewAI
+- AutoGen
+- MCP
+- RAG Pipelines
+- Prompt Engineering
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,typescript,javascript"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ---
 
-## Backend
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,go"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,typescript,javascript,html,css" />
 </p>
+
+**Frameworks**
+
+- React
+- Next.js
+- Vue
+- React Native
+- Tailwind CSS
+- GSAP
+- Framer Motion
 
 ---
 
-## Database
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,go" />
 </p>
+
+- Node.js
+- NestJS
+- Express
+- FastAPI
+- Python
+- Go
+- REST APIs
+- GraphQL
+- tRPC
 
 ---
 
-## Cloud & DevOps
+### Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 </p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Supabase
+- Firebase
 
 ---
 
-# 🌍 Industries
+### Vector Databases
+
+- Qdrant
+- Pinecone
+- ChromaDB
+- Weaviate
+- pgvector
+
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions" />
+</p>
+
+- AWS
+- Microsoft Azure
+- Google Cloud
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- CI/CD
+- MLOps
+
+---
+
+## Industries
 
 - Healthcare
-- Finance
-- Retail
 - Manufacturing
-- Education
+- Retail & Ecommerce
+- Finance
 - Logistics
-- Defence
-- HR Tech
+- Education
 - Aviation
 - Real Estate
+- Human Resources
+- Government
 
 ---
 
-# ⭐ Open Source
+## Engineering Principles
 
-We believe in giving back to the community.
+- AI with measurable business outcomes
+- Security by Design
+- Scalable Architecture
+- Clean Code
+- Documentation First
+- Automation Everywhere
+- Performance Optimisation
+- Continuous Delivery
+- Responsible AI
 
-Projects coming soon:
+---
 
-- AI SDK
+## Open Source
+
+We're actively investing in reusable tools, frameworks, and developer resources.
+
+Upcoming public projects include:
+
+- AI Starter Kit
+- Enterprise RAG Framework
+- AI Agent Templates
+- Next.js Enterprise Boilerplate
+- React Component Library
+- Shopify Toolkit
+- MCP Servers
+- Infrastructure Templates
 - Prompt Library
-- Workflow Engine
-- Starter Templates
-- Enterprise Boilerplates
 
 ---
 
-# 📊 Engineering Principles
+## Repository Categories
 
-✔ Security First
-
-✔ AI Responsible by Design
-
-✔ Test Driven Development
-
-✔ Documentation Driven
-
-✔ CI/CD Automation
-
-✔ Cloud Native
-
-✔ Performance Optimized
-
-✔ Scalable Architecture
+| Category | Focus |
+|----------|-------|
+| AI | Agents, LLMs, RAG, Automation |
+| Web | React, Next.js, TypeScript |
+| Mobile | React Native |
+| Backend | APIs & Microservices |
+| DevOps | Infrastructure & CI/CD |
+| Shopify | Apps & Storefronts |
+| UI | Design Systems |
+| Internal Tools | Productivity & Engineering |
 
 ---
 
-# 🤝 Work With Us
+## How We Work
 
-Need help building AI products?
+```text
+Discover
+      ↓
+Strategy
+      ↓
+Architecture
+      ↓
+Design
+      ↓
+Development
+      ↓
+AI Integration
+      ↓
+Testing
+      ↓
+Deployment
+      ↓
+Continuous Improvement
+```
 
-We help startups, enterprises and government organizations build intelligent software.
+---
 
-- AI Consulting
-- AI Development
-- Enterprise Software
+## Featured Services
+
+- AI Strategy & Consulting
+- AI Application Development
+- Intelligent Automation
+- AI Agents & Copilots
+- Custom Software Development
 - Product Engineering
-- Automation
+- Cloud Engineering
+- UI/UX Design
+- Quality Engineering
 - Managed Engineering Teams
+
+---
+
+## Community
+
+We welcome feedback, discussions, and contributions.
+
+- Report bugs
+- Suggest features
+- Improve documentation
+- Submit pull requests
+- Start a discussion
+
+Please read our **Contributing Guidelines** before opening a pull request.
+
+---
+
+## Connect With Us
+
+🌐 **Website**  
+https://setoo.co
+
+💼 **LinkedIn**  
+https://linkedin.com/company/setoos
+
+📧 **Email**  
+hello@setoo.co
 
 ---
 
 <div align="center">
 
-## Let's Build Together
+### Building technology that creates measurable business impact.
 
-🌐 https://setoo.co
-📧 hello@setoo.co
-💼 [https://linkedin.com/company/setoos](https://in.linkedin.com/company/setoos)
-
-⭐ Follow us on GitHub
+⭐ Follow our organization to stay updated with our latest projects and open-source initiatives.
 
 </div>
